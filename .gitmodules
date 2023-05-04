@@ -1,0 +1,3 @@
+[submodule "projects/ImageCluster"]
+	path = projects/ImageCluster
+	url = https://github.com/nasa-nccs-hpda/ImageCluster
