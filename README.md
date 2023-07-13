@@ -35,3 +35,11 @@ Below you will find a link to each notebook together with their respective detai
 | Topic | Interactive Link |
 |---|---|
 | **ImageCluster Notebook** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/nasa-nccs-hpda/ImageCluster/blob/ed4aea2dab243278d8792f2f706b4da8024cef87/view/ImageCluster.ipynb) |
+
+## PRISM TechTalks
+
+| Topic | Interactive Link |
+|---|---|
+| **XGBoost_Training_PRISM** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/nasa-nccs-hpda/ILAB_JupNotebooks/blob/main/projects/PRISM_TechTalks/XGBoost_Training_PRISM.ipynb) |
+| **MODIS_Explainability_PRISM** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/nasa-nccs-hpda/ILAB_JupNotebooks/blob/main/projects/PRISM_TechTalks/MODIS_Explainability_PRISM.ipynb) |
+
