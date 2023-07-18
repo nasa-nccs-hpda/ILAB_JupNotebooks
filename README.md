@@ -7,7 +7,7 @@ Below you will find a link to each notebook together with their respective detai
 
 | Topic | Interactive Link | 
 |---|---|
-| **ML Algorithms Introduction** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/ILAB_JupNotebooks/blob/main/projects/ARSET_ML_Fundamentals/session1/Assignment-Session1.ipynb) |
+| **ML Algorithms Introduction** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/ILAB_JupNotebooks/blob/main/projects/ARSET_ML_Fundamentals/session1/1-ML-Algorithms-Introduction-Session1.ipynb) |
 | **Assignment Session 1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/ILAB_JupNotebooks/blob/main/projects/ARSET_ML_Fundamentals/session1/Assignment-Session1.ipynb) |
 | **MODIS EDA** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/ILAB_JupNotebooks/blob/main/projects/ARSET_ML_Fundamentals/session2/1_MODIS_EDA_Session2.ipynb) |
 | **MODIS Train & Eval** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/ILAB_JupNotebooks/blob/main/projects/ARSET_ML_Fundamentals/session2/2_MODIS_Train_Eval_Session2.ipynb) |
